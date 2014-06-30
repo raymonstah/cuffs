@@ -1,7 +1,9 @@
 cuffs
 =====
 
-A username/password holder created with Python
+A username/password holder created with Python 2.7
+
+Run:
 >python cuffs.py
 
 * Use: Allows user to store private login information such as username/passwords.
