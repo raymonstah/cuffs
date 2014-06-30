@@ -8,7 +8,7 @@ Run:
 
 * Use: Allows user to store private login information such as username/passwords.
 
-* Encyrption/Decyrption method: A simple character-to-ASCII shift by a hardcoded key in the program.
+* Encryption/Decryption method: A simple character-to-ASCII shift by a hardcoded key in the program.
 
 * Protection: ".cuffs" is created with a hidden extension. When opening this .cuffs file, no valuable information can be obtained from it.
 
